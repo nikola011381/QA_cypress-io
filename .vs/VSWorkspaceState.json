@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\support",
+    "\\cypress\\tests",
+    "\\cypress\\tests\\api",
+    "\\cypress\\tests\\demo",
+    "\\cypress\\tests\\ui",
+    "\\cypress\\tests\\ui-auth-providers",
+    "\\data",
+    "\\scripts"
+  ],
+  "PreviewInSolutionExplorer": false
+}
